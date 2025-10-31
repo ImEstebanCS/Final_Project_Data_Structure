@@ -1,4 +1,4 @@
 package co.edu.uniquindio.ViewController.Admin;
 
-public class GestionUsuariosViewController {
+public class GestionUsuaViewC {
 }
